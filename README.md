@@ -1,0 +1,2 @@
+Finished the odin recipe assignment. 
+Added all recipes with relative ease from content taught from previous lessons. The description and steps could have provided more details, but the general structure was executed correctly.
